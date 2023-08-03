@@ -1,0 +1,10 @@
+[
+  {
+    "dataIndex": "testDataInput",
+    "widget": "input",
+    "defaultValue": "1",
+    "widgetProps": {
+      "placeholder": "请输入"
+    }
+  }
+]

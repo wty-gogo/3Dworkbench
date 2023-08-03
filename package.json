@@ -1,0 +1,37 @@
+{
+  "name": "workbench",
+  "scripts": {
+    "dev": "next dev",
+    "dev:turbo": "next dev --turbo",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@ant-design/icons": "^5.1.4",
+    "@react-three/drei": "^9.79.3",
+    "@react-three/fiber": "^8.13.5",
+    "@reduxjs/toolkit": "^1.9.5",
+    "ahooks": "^3.7.8",
+    "antd": "^5.7.3",
+    "autoprefixer": "^10.4.14",
+    "moment": "^2.29.4",
+    "next": "^13.4.12",
+    "postcss": "^8.4.27",
+    "ramda": "^0.29.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-redux": "^8.1.1",
+    "tailwindcss": "^3.3.3",
+    "three": "^0.154.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.4.4",
+    "@types/ramda": "^0.29.3",
+    "@types/react": "^18.2.16",
+    "@types/react-dom": "^18.2.7",
+    "@types/react-redux": "^7.1.25",
+    "@types/three": "^0.154.0",
+    "typescript": "^5.1.6"
+  }
+}
