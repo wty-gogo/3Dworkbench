@@ -1,5 +1,6 @@
 {
-  "name": "workbench",
+  "name": "3Dworkbench",
+  "author": "wty33@qq.com",
   "scripts": {
     "dev": "next dev",
     "dev:turbo": "next dev --turbo",
